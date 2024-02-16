@@ -250,7 +250,7 @@ body{
 @media(max-width:991px){
 
     .menu{
-        padding: 0px 70px;
+        padding: 0px 60px;
     }
 
     .menu label{
@@ -275,11 +275,11 @@ body{
     }
 
     .header{
-        min-height: 0vh;
+        min-height: 10vh;
     }
 
     .header-content{
-        padding: 90px 30px;
+        padding: 0px 50px;
     }
 
     .header-content p{
@@ -296,6 +296,7 @@ body{
 
     .coffee-content h2{
         padding: 0;
+        font-size: 35px;
     }
 
     .txt-p{
@@ -317,6 +318,11 @@ body{
 
     .services-content p{
         padding: 0;
+        font-size: 17px;
+    }
+
+    .services-content h2{
+        font-size: 35px;
     }
 
     .services-group{
